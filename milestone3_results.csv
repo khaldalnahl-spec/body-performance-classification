@@ -1,0 +1,11 @@
+Algorithm,Accuracy,Precision,Recall,F1_Score,Time_seconds
+LightGBM,75.92,76.53,75.92,75.86,0.517
+XGBoost,75.92,76.42,75.92,75.86,0.378
+Random Forest,75.40,75.79,75.40,75.35,1.782
+Gradient Boosting,72.86,73.69,72.86,72.77,7.021
+SVM,69.69,70.49,69.69,69.78,6.882
+Decision Tree,65.70,65.69,65.70,65.68,0.103
+Logistic Regression,62.71,62.27,62.71,62.42,0.125
+KNN,60.73,62.70,60.73,60.75,0.752
+AdaBoost,54.57,56.49,54.57,55.24,0.446
+Gaussian Naive Bayes,53.83,52.18,53.83,52.36,0.051
